@@ -48,4 +48,4 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
 ### Warning
 This tutorial is under active development, so use at your own risk. Found a bug? File an issue or contact [Dani Ushizima](mailto:dani.lbnl@gmail.com)
 
-Short link to this page: http://bit.ly/als2022vision
+Short link to this page: http://bit.ly/als2024vision
