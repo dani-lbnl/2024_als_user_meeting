@@ -19,9 +19,9 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
 </table>
 
 ## Tutorial Outline:
-- [01_memEfficProc](https://github.com/dani-lbnl/2024_als_user_meeting/blob/main/notebooks_colab/01_memEfficProc.ipynb)
-- [02_segmentation](https://github.com/dani-lbnl/2024_als_user_meeting/blob/main/notebooks_colab/02_segmentation.ipynb)
-- [03_tridimvis](https://github.com/dani-lbnl/2024_als_user_meeting/blob/main/notebooks_colab/03_tridimvis.ipynb)
+- [01_memEfficProc](https://drive.google.com/file/d/1tfL0f5NojXpV456UtaV3uhPuzpFwhSoX/view?usp=sharing)
+- [02_segmentation](https://colab.research.google.com/drive/1qPmaGNyJMXpxzWqTWKGY3dz_S8sjynha?usp=sharing)
+- [03_tridimvis](https://colab.research.google.com/drive/100FrKfqqT9_E7EO3qR2RFeGWU_Tjvi5K?usp=sharing)
 
 ## Enjoyed it? Give us a :star: and share it!
 [![Twitter](https://img.shields.io/badge/-Dani%20Vision-00aa00?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/dani_lbnl)](https://twitter.com/dani_lbnl)
