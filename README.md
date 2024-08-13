@@ -10,7 +10,7 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
     </td>
     <td>
      <p>
-      Title: Python Vision for MicroCT  
+      Title: MicroCT Image Analysis 
       <li> Presenter: <a href='http://bit.ly/idealdatascience'>Daniela Ushizima </a>
       <li> Date: Aug 13th 2024
       <li> Time: 1pm PT 
