@@ -6,7 +6,7 @@ This is a short introduction to Computer Vision, explaining how to handle 2D and
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png" width="300">
+    <td><img src="https://github.com/dani-lbnl/MolecularFoundry2024/blob/main/viz3d.gif" width="300">
     </td>
     <td>
      <p>
